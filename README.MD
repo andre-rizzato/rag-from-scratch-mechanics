@@ -7,7 +7,7 @@ made explicitly — and can be measured.
 This is a learning exercise on synthetic data, not a production component. Its value
 is the measurements, not the code.
 
-Companion article: **Retrieval Is Not a Lookup** *(link to be added after publication)*
+Companion article: **Retrieval Is Not a Lookup** *(https://www.linkedin.com/pulse/retrieval-lookup-andre-rizzato-wp9kf/)*
 
 ## The invariant
 
